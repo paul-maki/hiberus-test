@@ -1,0 +1,36 @@
+.container {
+    padding: 1rem;
+    min-width: 320px;
+}
+
+.form-wrapper {
+    border: 2px solid rgb(204, 216, 235);
+    border-radius: .25rem;
+}
+
+.login-header {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding: .5rem;
+}
+
+.form-container {
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+}
+
+.form {
+    flex-grow: 1;
+}
+
+.form-group {
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+
+.alerts-container {
+    padding: 1rem;
+}

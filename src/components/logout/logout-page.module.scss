@@ -1,0 +1,22 @@
+.logout-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.logout {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.logout-div {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #dc3545;
+    border-radius: .25rem;
+    padding: 2rem;
+}

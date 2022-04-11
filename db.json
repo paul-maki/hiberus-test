@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Nombree",
+      "surname": "Apellido",
+      "email": "test2@test.com",
+      "password": "1234",
+      "id": "FgxeyyL2"
+    },
+    {
+      "name": "Paul",
+      "surname": "Maki",
+      "email": "test3@test.com",
+      "password": "1234",
+      "id": "Fgxe3yyL"
+    },
+    {
+      "name": "Pau",
+      "surname": "Mak",
+      "email": "pau@mak.com",
+      "password": "123456",
+      "id": "vMKLpGE"
+    },
+    {
+      "name": "Paul",
+      "surname": "Maki",
+      "email": "asdasd@asdasd.com",
+      "password": "123456",
+      "id": "V1CsqUt"
+    }
+  ]
+}
